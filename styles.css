@@ -158,3 +158,5 @@ body{font-size:16px;font-weight:450}
 /* Lash tools replace the decorative kitten; both panels keep a clean pink background. */
 .booking-tools{filter:drop-shadow(0 10px 14px #9b61731a)}
 @media(max-width:600px){.booking-panel{padding-bottom:205px}.booking-tools{width:195px;right:4px;bottom:-8px}}
+
+.about-photo>img{aspect-ratio:4/5;object-position:center}
